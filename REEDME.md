@@ -80,6 +80,19 @@ it consists of two api -- getTop5 and live monitor
 - return 
   - code
   - Msg
+# to run 
+
+## to start nginx
+brew services start nginx
+
+## to start backend server 
+
+gunicorn -c config.py flask_backend:app 
+
+## to do pressure measurement for apis with wrk
+
+wrk -t 16 -c 200 -d 60s --latency  -s post.lua http://127.0.0.1:8181/createorder/ 
+ wrk -t 16 -c 200 -d 60s --latency  -s get.lua http://127.0.0.1:8181/livemonitor/
 
 # tools
 
@@ -92,6 +105,7 @@ it consists of two api -- getTop5 and live monitor
 - gunicorn
 - nginx
 - wrk
+- macOS
 
 # others
 
