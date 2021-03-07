@@ -1,0 +1,10 @@
+2020-08-16 16:41:52,617 - sever.flask_backend - INFO - finished
+2020-08-16 16:42:15,676 - sever.flask_backend - INFO - there is no records for the shopid
+2020-08-16 16:42:22,034 - sever.flask_backend - INFO - '' is too short
+
+Failed validating 'minLength' in schema['properties']['shopid']:
+    {'minLength': 1, 'type': 'string'}
+
+On instance['shopid']:
+    ''
+2020-08-16 16:42:22,044 - sever.flask_backend - INFO - there is no records for the shopid

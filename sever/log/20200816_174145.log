@@ -1,0 +1,2 @@
+2020-08-16 17:41:50,265 - sever.flask_backend - ERROR - json数据不符合schema规定! 出错字段：; 提示信息：Additional properties are not allowed ('yy' was unexpected)
+2020-08-16 17:42:58,187 - sever.flask_backend - ERROR - json数据不符合schema规定! 出错字段：shopid; 提示信息：None is not of type 'string'

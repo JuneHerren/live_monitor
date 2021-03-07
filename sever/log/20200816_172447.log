@@ -1,0 +1,7 @@
+2020-08-16 17:24:58,341 - sever.flask_backend - INFO - 验证成功！
+2020-08-16 17:24:58,362 - sever.flask_backend - INFO - success!
+2020-08-16 17:25:37,773 - sever.flask_backend - ERROR - json数据不符合schema规定! 出错字段：amount; 提示信息：'2' is not of type 'number'
+2020-08-16 17:26:24,972 - sever.flask_backend - ERROR - json数据不符合schema规定! 出错字段：shopid; 提示信息：123 is not of type 'string'
+2020-08-16 17:26:48,416 - sever.flask_backend - ERROR - json数据不符合schema规定! 出错字段：amount; 提示信息：'2' is not of type 'number'
+2020-08-16 17:26:58,901 - sever.flask_backend - INFO - 验证成功！
+2020-08-16 17:26:58,904 - sever.flask_backend - INFO - success!

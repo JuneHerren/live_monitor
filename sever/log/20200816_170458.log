@@ -1,0 +1,14 @@
+2020-08-16 17:05:05,434 - sever.flask_backend - ERROR - json数据不符合schema规定：
+出错字段：shopid
+提示信息：None is not of type 'string'
+2020-08-16 17:05:05,434 - sever.flask_backend - ERROR - Exception on /livemonitor/ [GET]
+Traceback (most recent call last):
+  File "/Users/junqingyang/My_project/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/junqingyang/My_project/venv/lib/python3.8/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/junqingyang/My_project/venv/lib/python3.8/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/junqingyang/My_project/venv/lib/python3.8/site-packages/flask/app.py", line 2097, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.

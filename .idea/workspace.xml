@@ -1,11 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0caa300d-cbfa-4840-b3ba-e0ca4bc817be" name="Default Changelist" comment="" />
+    <list default="true" id="0caa300d-cbfa-4840-b3ba-e0ca4bc817be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create_report.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_for_create_order.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_for_live_monitor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_backend.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myDB.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report_2020-07-30_14-59-26.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_for_createOrder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_for_livemonitor.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fOjjgIO6ITLw4RBOSdRHn5Zhy8" />
   <component name="ProjectViewState">
@@ -15,9 +49,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/common" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="杨俊卿" type="PythonConfigurationType" factoryName="Python">
@@ -43,6 +83,7 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -59,5 +100,23 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="642" y="343" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596593906911">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state x="642" y="343" key="#com.intellij.fileTypes.FileTypeChooser/1792.23.1920.1057/0.23.1792.1022@0.23.1792.1022" timestamp="1596593906911" />
   </component>
 </project>

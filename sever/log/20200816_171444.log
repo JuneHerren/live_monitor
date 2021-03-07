@@ -1,0 +1,2 @@
+2020-08-16 17:14:52,547 - sever.flask_backend - ERROR - json数据不符合schema规定! 出错字段：shopid; 提示信息：None is not of type 'string'
+2020-08-16 17:15:27,226 - sever.flask_backend - ERROR - json数据不符合schema规定! 出错字段：shopid; 提示信息：None is not of type 'string'

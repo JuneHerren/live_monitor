@@ -1,0 +1,8 @@
+2020-08-16 16:55:57,685 - sever.flask_backend - ERROR - 验证模式schema出错：
+出错位置：properties --> shopid --> not
+提示信息：[None] is not of type 'object', 'boolean'
+2020-08-16 16:55:57,693 - sever.flask_backend - INFO - there is no records for the shopid
+2020-08-16 17:00:32,238 - sever.flask_backend - ERROR - 验证模式schema出错：
+出错位置：properties --> shopid --> not
+提示信息：[None] is not of type 'object', 'boolean'
+2020-08-16 17:00:32,245 - sever.flask_backend - INFO - there is no records for the shopid
