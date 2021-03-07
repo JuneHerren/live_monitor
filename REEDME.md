@@ -89,6 +89,9 @@ it consists of two api -- getTop5 and live monitor
 - requests
 - Sqlite3
 - logging
+- gunicorn
+- nginx
+- wrk
 
 # others
 
